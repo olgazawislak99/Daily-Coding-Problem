@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dc9cf23-fe92-4497-b107-c31c48fcf587" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Problem_5/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem_5/Problem_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_7/Problem_7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Daily Coding Problem/Problem_1/Problem_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Daily Coding Problem/Problem_1/Problem_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Daily Coding Problem/Problem_2/Problem_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Daily Coding Problem/Problem_2/Problem_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Daily Coding Problem/Problem_3/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Daily Coding Problem/Problem_3/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Daily Coding Problem/Problem_3/Problem_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Daily Coding Problem/Problem_3/Problem_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Daily Coding Problem/Problem_4/Problem_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Daily Coding Problem/Problem_4/Problem_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem_1/Problem_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem_1/Problem_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem_2/Problem_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem_2/Problem_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem_3/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem_3/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem_3/Problem_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem_3/Problem_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem_4/Problem_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem_4/Problem_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem_5/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem_5/Pair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem_5/Problem_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem_5/Problem_5.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,10 +39,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Car rantal/car-rental" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -45,20 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Problem_5">
-    <configuration name="Problem_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_1.Problem_1" />
-      <module name="Daily Coding Problem" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Problem_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Problem_7">
     <configuration name="Problem_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem_2.Problem_2" />
       <module name="Daily Coding Problem" />
@@ -111,13 +110,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_7.Problem_7" />
+      <module name="Daily Coding Problem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Problem_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem_7" />
         <item itemvalue="Application.Problem_5" />
         <item itemvalue="Application.Problem_4" />
         <item itemvalue="Application.Problem_3" />
         <item itemvalue="Application.Problem_2" />
-        <item itemvalue="Application.Problem_1" />
       </list>
     </recent_temporary>
   </component>
@@ -137,8 +149,20 @@
       <workItem from="1584455514074" duration="897000" />
       <workItem from="1584457836420" duration="2781000" />
       <workItem from="1584884119595" duration="3928000" />
-      <workItem from="1585214046175" duration="667000" />
+      <workItem from="1585214046175" duration="1061000" />
+      <workItem from="1585563613188" duration="504000" />
+      <workItem from="1585564134069" duration="39000" />
+      <workItem from="1585564520084" duration="119000" />
+      <workItem from="1586771524386" duration="3531000" />
     </task>
+    <task id="LOCAL-00001" summary="add Problem_5">
+      <created>1585214798110</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585214798110</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +179,31 @@
           </value>
         </entry>
       </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add Problem_5" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Problem_5" />
+  </component>
+  <component name="com.vaadin.designer2.intellij.settings.SizePresetsSettingsComponent">
+    <option name="sizePresets">
+      <list>
+        <SizePreset>
+          <option name="caption" value="Phone" />
+          <option name="height" value="568" />
+          <option name="width" value="320" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Tablet" />
+          <option name="height" value="1024" />
+          <option name="width" value="768" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Desktop" />
+          <option name="height" value="900" />
+          <option name="width" value="1440" />
+        </SizePreset>
+      </list>
     </option>
   </component>
 </project>

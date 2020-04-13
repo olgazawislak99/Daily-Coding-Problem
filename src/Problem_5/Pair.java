@@ -21,8 +21,8 @@ public class Pair {
 
     private int b;
 
-    public Pair(int a, int b){
-        this.a=a;
-        this.b=b;
+    public Pair(int a, int b) {
+        this.a = a;
+        this.b = b;
     }
 }
