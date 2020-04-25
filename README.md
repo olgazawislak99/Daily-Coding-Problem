@@ -30,3 +30,11 @@ Problem 7:
 Given the mapping a = 1, b = 2, ... z = 26, and an encoded message, count the number of ways it can be decoded.
 For example, the message '111' would give 3, since it could be decoded as 'aaa', 'ka', and 'ak'.
 You can assume that the messages are decodable. For example, '001' is not allowed.
+
+Universality problem:
+Problem Statement
+Given the date, month and year, find the day.
+Input Specification
+The first line consists of an integer t, the number of test cases. Then for each test case there are three integers the date, month and year.
+Output Specification
+For each test case print the day in words in a separate line(The first character should be caps followed by small letters).
