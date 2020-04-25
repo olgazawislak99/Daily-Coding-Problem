@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dc9cf23-fe92-4497-b107-c31c48fcf587" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Problem_7/Problem_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Universality/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Daily Coding Problem/Problem_1/Problem_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Daily Coding Problem/Problem_1/Problem_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Daily Coding Problem/Problem_2/Problem_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Daily Coding Problem/Problem_2/Problem_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Daily Coding Problem/Problem_3/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Daily Coding Problem/Problem_3/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Daily Coding Problem/Problem_3/Problem_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Daily Coding Problem/Problem_3/Problem_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Daily Coding Problem/Problem_4/Problem_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Daily Coding Problem/Problem_4/Problem_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem_1/Problem_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem_1/Problem_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem_2/Problem_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem_2/Problem_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem_3/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem_3/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem_3/Problem_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem_3/Problem_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem_4/Problem_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem_4/Problem_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem_5/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem_5/Pair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem_5/Problem_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem_5/Problem_5.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +27,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Car rantal/car-rental" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -154,6 +142,7 @@
       <workItem from="1585564134069" duration="39000" />
       <workItem from="1585564520084" duration="119000" />
       <workItem from="1586771524386" duration="3531000" />
+      <workItem from="1587807113106" duration="107000" />
     </task>
     <task id="LOCAL-00001" summary="add Problem_5">
       <created>1585214798110</created>
